@@ -1,0 +1,20 @@
+[
+  {
+    "title" : "sample 1",
+    "url" : "www.url.net",
+    "text" : "this is some text",
+    "image" : "./image.png"
+  },
+  {
+    "title" : "sample 2",
+    "url" : "www.url.com",
+    "text" : "this is some slightly different text",
+    "image" : "./image.png"
+  },
+  {
+    "title" : "sample 3",
+    "url" : "www.url.org",
+    "text" : "this is one more text",
+    "image" : "./image.png"
+  }
+]
